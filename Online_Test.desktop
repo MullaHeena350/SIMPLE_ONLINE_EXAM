@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=OnlineTest
+Icon=/home/student/Music/Projects/Project2/img/online.jpg
+Exec=python3 /home/student/Music/Projects/Project2/img/testing.py
+Type=Application
+Terminal=true
+Version=0.99
